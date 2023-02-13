@@ -6,6 +6,7 @@
 
 # Resumo do projeto
 O desafio foi desenvolver um aplicativo desktop em Java que simulasse um gerenciador de reservas, aplicando as teorias aprendidas acerca de como trabalhar com banco de dados além de aprofundar o conhecimento sobre como funcionaria um aplicativo comercial completo, com interface com o usuário e com o banco de dados.
+
 Foram aplicados os conceitos de Pool de conexões, a fim de lidar com requisições simultâneas ao banco de dados, além do encapsulamento das trativas para com o banco de dados através de DAO's.
 
 ## 🖥️ Tecnologias Utilizadas:
